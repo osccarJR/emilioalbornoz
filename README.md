@@ -2,8 +2,8 @@
 
 <!-- GitHub Stats y Lenguajes más usados -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilioalbornoz&show_icons=true&theme=radical" alt="Emilio's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioalbornoz&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osccarJR&show_icons=true&theme=radical" alt="Emilio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osccarJR&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <!-- Tecnologías -->
@@ -28,5 +28,5 @@
 
 <!-- Actividad en GitHub -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilioalbornoz&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osccarJR&theme=dark" alt="Streak Stats" />
 </p>
